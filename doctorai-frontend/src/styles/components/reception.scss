@@ -1,0 +1,11 @@
+.reception-container {
+  display: flex;
+  flex-direction: column;
+  margin: 40px 20px;
+  .reception-add-button-container {
+    display: flex;
+    gap: 15px;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+}
